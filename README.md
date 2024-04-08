@@ -1,5 +1,13 @@
 # Git and github laboratory 
 
-Git practice laboratory.
+##Description
+
+Git practice laboratory where we´re studying the fundamentals of github
+
+##Content
+
+##References
+
+
 
 Diego Valencia
